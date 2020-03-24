@@ -1,0 +1,35 @@
+body {
+  background-color: #21421e;
+  font-family: monospace;
+}
+#dom {
+  margin-top: 2rem;
+  text-align: center;
+}
+#mainTitle {
+  text-align: center;
+  font-size: 20px;
+}
+#inputForm {
+  margin-top: 200px;
+}
+#decimal {
+  width: 15rem;
+}
+#button1 {
+  margin-top: 5px;
+  width: 60px;
+  background-color: black;
+  color: #ffffff;
+  border: none;
+  padding: 3px;
+  font-family: monospace;
+}
+#converted {
+  margin-top: 50px;
+}
+.cheads {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 20px;
+}
